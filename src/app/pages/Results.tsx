@@ -4,7 +4,7 @@ import { Badge } from '@/components/ui/badge';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Button } from '@/components/ui/button';
 import { Slider } from '@/components/ui/slider';
-import Layout from '@/components/Layout';
+import Layout from '@/app/components/Layout';
 import { TrendingUp, DollarSign, GraduationCap, CreditCard, Award, Users } from 'lucide-react';
 
 // Mock data

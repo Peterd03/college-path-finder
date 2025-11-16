@@ -4,8 +4,8 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { Label } from '@/components/ui/label';
 import { Slider } from '@/components/ui/slider';
-import { useUserContext } from '@/contexts/UserContext';
-import Layout from '@/components/Layout';
+import { useUserContext } from '@/app/contexts/UserContext';
+import Layout from '@/app/components/Layout';
 import { ArrowLeft, Target } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 

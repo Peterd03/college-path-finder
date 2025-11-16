@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import { UserCheck, Sliders, Target } from 'lucide-react';
-import Layout from '@/components/Layout';
+import Layout from '@/app/components/Layout';
 
 const Landing = () => {
   return (
