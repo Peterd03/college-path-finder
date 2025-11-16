@@ -1,4 +1,4 @@
-import Layout from '@/components/Layout';
+import Layout from '@/app/components/Layout';
 import { Card } from '@/components/ui/card';
 import { ExternalLink } from 'lucide-react';
 

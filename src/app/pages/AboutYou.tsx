@@ -6,8 +6,8 @@ import { Label } from '@/components/ui/label';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { Slider } from '@/components/ui/slider';
-import { useUserContext } from '@/contexts/UserContext';
-import Layout from '@/components/Layout';
+import { useUserContext } from '@/app/contexts/UserContext';
+import Layout from '@/app/components/Layout';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 const US_STATES = [
